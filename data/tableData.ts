@@ -1,3 +1,4 @@
+
 import { OPMData } from '../types';
 
 export const policeData: OPMData[] = [
@@ -5,13 +6,13 @@ export const policeData: OPMData[] = [
     grandeComando: 'CPRM',
     opm: '1º BPM',
     previsto: { capQoem: 3, capQoe: 1, ten1Qoem: 4, ten1Qoe: 0, ten2Qoem: 6, ten2Qoe: 2 },
-    existente: { capQoem: 3, capQoe: 0, ten1Qoem: 1, ten1Qoe: 1, ten2Qoem: 0, ten2Qoe: 3, total: 8, st: 1, concorremEscala: 8, aspirantes: 2 },
+    existente: { capQoem: 3, capQoe: 0, ten1Qoem: 1, ten1Qoe: 1, ten2Qoem: 0, ten2Qoe: 3, total: 8, st: 1, concorremEscala: 8, aspirantes: 1 },
   },
   {
     grandeComando: 'CPRM',
     opm: '4º BPM',
     previsto: { capQoem: 3, capQoe: 1, ten1Qoem: 4, ten1Qoe: 0, ten2Qoem: 6, ten2Qoe: 2 },
-    existente: { capQoem: 2, capQoe: 0, ten1Qoem: 2, ten1Qoe: 1, ten2Qoem: 0, ten2Qoe: 2, total: 7, st: 2, concorremEscala: 8, aspirantes: 2 },
+    existente: { capQoem: 2, capQoe: 0, ten1Qoem: 2, ten1Qoe: 1, ten2Qoem: 0, ten2Qoe: 2, total: 7, st: 2, concorremEscala: 8, aspirantes: 1 },
   },
   {
     grandeComando: 'CPRM',
@@ -23,7 +24,7 @@ export const policeData: OPMData[] = [
     grandeComando: 'CPRM',
     opm: '8º BPM',
     previsto: { capQoem: 3, capQoe: 1, ten1Qoem: 4, ten1Qoe: 0, ten2Qoem: 6, ten2Qoe: 2 },
-    existente: { capQoem: 1, capQoe: 1, ten1Qoem: 2, ten1Qoe: 1, ten2Qoem: 0, ten2Qoe: 2, total: 7, st: 4, concorremEscala: 10, aspirantes: 2 },
+    existente: { capQoem: 1, capQoe: 1, ten1Qoem: 2, ten1Qoe: 1, ten2Qoem: 0, ten2Qoe: 2, total: 7, st: 4, concorremEscala: 10, aspirantes: 1 },
   },
   {
     grandeComando: 'CPRM',
@@ -35,25 +36,25 @@ export const policeData: OPMData[] = [
     grandeComando: 'CPRM',
     opm: '13º BPM',
     previsto: { capQoem: 3, capQoe: 1, ten1Qoem: 4, ten1Qoe: 0, ten2Qoem: 6, ten2Qoe: 2 },
-    existente: { capQoem: 2, capQoe: 1, ten1Qoem: 2, ten1Qoe: 2, ten2Qoem: 0, ten2Qoe: 2, total: 9, st: 2, concorremEscala: 10, aspirantes: 3 },
+    existente: { capQoem: 2, capQoe: 1, ten1Qoem: 2, ten1Qoe: 2, ten2Qoem: 0, ten2Qoe: 2, total: 9, st: 2, concorremEscala: 10, aspirantes: 1 },
   },
   {
     grandeComando: 'CPRM',
     opm: '2ª CPM/I',
     previsto: { capQoem: 1, capQoe: 0, ten1Qoem: 4, ten1Qoe: 1, ten2Qoem: 2, ten2Qoe: 2 },
-    existente: { capQoem: 1, capQoe: 0, ten1Qoem: 1, ten1Qoe: 1, ten2Qoem: 0, ten2Qoe: 2, total: 5, st: 2, concorremEscala: 6, aspirantes: 2 },
+    existente: { capQoem: 1, capQoe: 0, ten1Qoem: 1, ten1Qoe: 1, ten2Qoem: 0, ten2Qoe: 2, total: 5, st: 2, concorremEscala: 6, aspirantes: 1 },
   },
   {
     grandeComando: 'CPRM',
     opm: '4ª CPM/I',
     previsto: { capQoem: 1, capQoe: 0, ten1Qoem: 4, ten1Qoe: 1, ten2Qoem: 2, ten2Qoe: 2 },
-    existente: { capQoem: 1, capQoe: 0, ten1Qoem: 1, ten1Qoe: 1, ten2Qoem: 0, ten2Qoe: 0, total: 3, st: 2, concorremEscala: 3, aspirantes: 2 },
+    existente: { capQoem: 1, capQoe: 0, ten1Qoem: 1, ten1Qoe: 1, ten2Qoem: 0, ten2Qoe: 0, total: 3, st: 2, concorremEscala: 3, aspirantes: 1 },
   },
   {
     grandeComando: 'CPRM',
     opm: '5ª CPM/I',
     previsto: { capQoem: 1, capQoe: 0, ten1Qoem: 4, ten1Qoe: 1, ten2Qoem: 2, ten2Qoe: 2 },
-    existente: { capQoem: 2, capQoe: 0, ten1Qoem: 1, ten1Qoe: 0, ten2Qoem: 0, ten2Qoe: 4, total: 7, st: 2, concorremEscala: 8, aspirantes: 2 },
+    existente: { capQoem: 2, capQoe: 0, ten1Qoem: 1, ten1Qoe: 0, ten2Qoem: 0, ten2Qoe: 4, total: 7, st: 2, concorremEscala: 8, aspirantes: 1 },
   },
   {
     grandeComando: 'CPE',
@@ -89,13 +90,13 @@ export const policeData: OPMData[] = [
     grandeComando: 'CPRA',
     opm: '3º BPM',
     previsto: { capQoem: 4, capQoe: 1, ten1Qoem: 4, ten1Qoe: 0, ten2Qoem: 6, ten2Qoe: 2 },
-    existente: { capQoem: 2, capQoe: 0, ten1Qoem: 4, ten1Qoe: 2, ten2Qoem: 1, ten2Qoe: 0, total: 9, st: 2, concorremEscala: 10, aspirantes: 1 },
+    existente: { capQoem: 2, capQoe: 0, ten1Qoem: 4, ten1Qoe: 2, ten2Qoem: 1, ten2Qoe: 0, total: 9, st: 2, concorremEscala: 10, aspirantes: 2 },
   },
   {
     grandeComando: 'CPRA',
     opm: '10º BPM',
     previsto: { capQoem: 4, capQoe: 1, ten1Qoem: 4, ten1Qoe: 0, ten2Qoem: 6, ten2Qoe: 2 },
-    existente: { capQoem: 3, capQoe: 1, ten1Qoem: 3, ten1Qoe: 1, ten2Qoem: 0, ten2Qoe: 0, total: 8, st: 0, concorremEscala: 7, aspirantes: 1 },
+    existente: { capQoem: 3, capQoe: 1, ten1Qoem: 3, ten1Qoe: 1, ten2Qoem: 0, ten2Qoe: 0, total: 8, st: 0, concorremEscala: 7, aspirantes: 2 },
   },
   {
     grandeComando: 'CPRA',
@@ -113,19 +114,19 @@ export const policeData: OPMData[] = [
     grandeComando: 'CPRNZM',
     opm: '2º BPM',
     previsto: { capQoem: 4, capQoe: 1, ten1Qoem: 4, ten1Qoe: 0, ten2Qoem: 6, ten2Qoe: 2 },
-    existente: { capQoem: 2, capQoe: 0, ten1Qoem: 2, ten1Qoe: 1, ten2Qoem: 0, ten2Qoe: 3, total: 8, st: 5, concorremEscala: 13, aspirantes: 1 },
+    existente: { capQoem: 2, capQoe: 0, ten1Qoem: 2, ten1Qoe: 1, ten2Qoem: 0, ten2Qoe: 3, total: 8, st: 5, concorremEscala: 13, aspirantes: 2 },
   },
   {
     grandeComando: 'CPRNZM',
     opm: '6º BPM',
     previsto: { capQoem: 4, capQoe: 1, ten1Qoem: 4, ten1Qoe: 0, ten2Qoem: 6, ten2Qoe: 2 },
-    existente: { capQoem: 3, capQoe: 1, ten1Qoem: 3, ten1Qoe: 1, ten2Qoem: 0, ten2Qoe: 3, total: 11, st: 1, concorremEscala: 10, aspirantes: 1 },
+    existente: { capQoem: 3, capQoe: 1, ten1Qoem: 3, ten1Qoe: 1, ten2Qoem: 0, ten2Qoe: 3, total: 11, st: 1, concorremEscala: 10, aspirantes: 2 },
   },
   {
     grandeComando: 'CPRNZM',
     opm: '14º BPM',
     previsto: { capQoem: 4, capQoe: 1, ten1Qoem: 4, ten1Qoe: 0, ten2Qoem: 6, ten2Qoe: 2 },
-    existente: { capQoem: 0, capQoe: 0, ten1Qoem: 2, ten1Qoe: 1, ten2Qoem: 0, ten2Qoe: 3, total: 6, st: 3, concorremEscala: 9, aspirantes: 1 },
+    existente: { capQoem: 0, capQoe: 0, ten1Qoem: 2, ten1Qoe: 1, ten2Qoem: 0, ten2Qoe: 3, total: 6, st: 3, concorremEscala: 9, aspirantes: 2 },
   },
   {
     grandeComando: 'CPRNZM',
@@ -137,7 +138,7 @@ export const policeData: OPMData[] = [
     grandeComando: 'CPRS',
     opm: '7ºBPM',
     previsto: { capQoem: 4, capQoe: 1, ten1Qoem: 4, ten1Qoe: 0, ten2Qoem: 6, ten2Qoe: 2 },
-    existente: { capQoem: 2, capQoe: 2, ten1Qoem: 2, ten1Qoe: 1, ten2Qoem: 0, ten2Qoe: 3, total: 10, st: 2, concorremEscala: 11, aspirantes: 1 },
+    existente: { capQoem: 2, capQoe: 2, ten1Qoem: 2, ten1Qoe: 1, ten2Qoem: 0, ten2Qoe: 3, total: 10, st: 2, concorremEscala: 11, aspirantes: 2 },
   },
   {
     grandeComando: 'CPRS',
