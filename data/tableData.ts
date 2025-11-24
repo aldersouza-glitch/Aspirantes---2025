@@ -144,7 +144,7 @@ export const policeData: OPMData[] = [
     grandeComando: 'CPRS',
     opm: '9ºBPM',
     previsto: { capQoem: 4, capQoe: 1, ten1Qoem: 4, ten1Qoe: 0, ten2Qoem: 6, ten2Qoe: 2 },
-    existente: { capQoem: 2, capQoe: 0, ten1Qoem: 3, ten1Qoe: 1, ten2Qoem: 1, ten2Qoe: 0, total: 7, st: 1, concorremEscala: 7, aspirantes: 2 },
+    existente: { capQoem: 2, capQoe: 0, ten1Qoem: 3, ten1Qoe: 1, ten2Qoem: 0, ten2Qoe: 1, total: 7, st: 1, concorremEscala: 7, aspirantes: 2 },
   },
   {
     grandeComando: 'CPRS',
