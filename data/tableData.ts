@@ -150,7 +150,7 @@ export const policeData: OPMData[] = [
     grandeComando: 'CPRS',
     opm: '6ª CPMI',
     previsto: { capQoem: 1, capQoe: 0, ten1Qoem: 4, ten1Qoe: 1, ten2Qoem: 2, ten2Qoe: 2 },
-    existente: { capQoem: 1, capQoe: 0, ten1Qoem: 1, ten1Qoe: 1, ten2Qoem: 0, ten2Qoe: 0, total: 3, st: 3, concorremEscala: 8, aspirantes: 1 },
+    existente: { capQoem: 1, capQoe: 0, ten1Qoem: 1, ten1Qoe: 1, ten2Qoem: 0, ten2Qoe: 1, total: 4, st: 3, concorremEscala: 8, aspirantes: 1 },
   },
   {
     grandeComando: 'CME',
